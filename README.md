@@ -3,8 +3,9 @@
 An IPS patch for **Steam Heart's [T-En by Psyklax v0.99]** (PC-98) that fixes
 the game crashing during dialogue, usually shortly after a stage starts.
 
-The translation itself is Psyklax's work; this patch only fixes a
-compatibility bug in it. The original Japanese release does not need it.
+The translation itself is Psyklax's work
+([romhacking.net: Steam Heart's translation](https://www.romhacking.net/translations/3509/));
+this patch only fixes a compatibility bug in it. The original Japanese release does not need it.
 
 ## Download
 
